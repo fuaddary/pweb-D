@@ -1,0 +1,22 @@
+/* tag selector */
+p {
+    color : orange;
+
+}
+
+/* grouping selector */
+table,tr,th,td{
+    border: solid black 1px;
+}
+
+.header {
+    color: blueviolet;
+}
+
+#kolom1 {
+    color: red;
+}
+
+img {
+    width: 20%;
+}
